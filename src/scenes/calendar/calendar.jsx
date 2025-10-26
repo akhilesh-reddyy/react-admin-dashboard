@@ -1,6 +1,6 @@
 import { useState } from "react";
 import FullCalendar from '@fullcalendar/react';
-import formatDate from '@fullcalendar/core/locales-all';
+import { formatDate } from "@fullcalendar/core/internal";
 import dayGridPlugin from "@fullcalendar/daygrid";
 import timeGridPlugin from "@fullcalendar/timegrid";
 import interactionPlugin from "@fullcalendar/interaction";
