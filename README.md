@@ -3,6 +3,8 @@
 A modern, fully responsive **Admin Dashboard** built using **React.js**, **Material-UI (MUI)**, and **Nivo Charts**.  
 This project demonstrates the implementation of an interactive and dynamic dashboard suitable for analytics, management panels, and data visualization applications.
 
+Open http://localhost:3000 with your browser to see the result.
+
 ---
 
 ## 🚀 Features
